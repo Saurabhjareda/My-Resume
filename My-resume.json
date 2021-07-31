@@ -1,0 +1,71 @@
+{
+    "basics": {
+        "name": "Saurabh Jareda",
+        "label": "Student",
+	"picture": "https://avatars.githubusercontent.com/u/75856599?s=400&u=64e3a71ff9a0e4c28feddd7673eaf00acf74c473&v=4",
+        "email": "2020kucp1113@iiitkota.ac.in",
+        
+        "summary": "I'm a student of Indian Institute of Information Technology,Kota (India), persuing my B.tech in Computer Science & engineering.",
+        "location": {
+            "address": "Todabhim",
+            "postalCode": "322220",
+            "city": "Karauli",
+            "countryCode": " India",
+            "region": "Rajasthan"
+        },
+        "profiles": [
+                {
+                "network": "Github",
+                "username": "Saurabhjareda",
+                "url": "https://www.github.com/Saurabhjareda"
+            },
+            {
+                "network": "linkedin",
+                "username": "Saurabh Jareda",
+                "url": "https://www.linkedin.com/in/saurabh-jareda-24526b206"
+            },
+            {
+                "network": "Instagram",
+                "username": "saurabhjareda",
+                "url": "https://www.instagram.com/saurabhjareda/"
+            }
+        ]
+    },
+    "education": [
+        {
+            "institution": "Indian Institute of Information Technology,Kota",
+            "area": "Engineering",
+            "studyType": "Bachelor of Technology",
+            "courses": [
+                "Computer Science & Engineering"
+            ]
+        }
+    ],
+    "skills": [
+        {
+            "level": "Beginner",
+            "keywords": [
+                "HTML",
+                "CSS",
+                "C/C++"
+            ]
+        }
+    ],
+    "languages": [
+        {
+            "language": "English/Hindi,
+            "fluency": "Native speaker"
+        }
+    ],
+    "interests": [
+        {
+            "name": "Playing",
+            "keywords": [
+                "Badminton",
+		"Cricket",
+		"Football"
+            ]
+        }
+    ],
+    "references": []
+}
