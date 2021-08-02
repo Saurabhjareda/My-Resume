@@ -53,7 +53,7 @@
     ],
     "languages": [
         {
-            "language": "English","Hindi", 
+            "language": ["English","Hindi"] 
             "fluency": "Native speaker"
         }
     ],
